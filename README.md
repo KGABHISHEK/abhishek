@@ -1,4 +1,4 @@
-Started my QA journey in 2021.
+Started my QA journey in 2021.  
 Contributed to a variety of projects across Navigation & Telecommunication domains:
   - 🌍 + 🧭 + 🛰️ + 📱🚗✈️ + 🗺📍
   - 🛰️ + 📡 + 📶🌐☎️ 
